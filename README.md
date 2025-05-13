@@ -17,4 +17,4 @@ Ferramentas: Comunidade "CV:HD" do Discord
 Revisão: Neko Belmont e Barzinho dos Belmonts
 
 # Instalação Manual (RPCS3)
-Baixe os arquivos apertando no botão verde no topo da tela e selecionando "Download ZIP", acesse o local de instalação do RPCS3 e vá até "\dev_hdd0\game\". Substitua a pasta "NPUB30505" com a que baixou.
+Baixe o "release" mais recente, acesse o local de instalação do RPCS3 e vá até "\dev_hdd0\game\". Substitua a pasta "NPUB30505" com a que baixou.
