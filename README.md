@@ -7,14 +7,15 @@ Esta tradução foi concebida, inicialmente, no início de 2025. Eu tinha recém
 
 # Créditos
 Tradução/Adaptação: Neko Belmont e Solid_One
-
+Terminologia/Universalização: Neko Belmont, Solid_One e Rafael Silva
 Gráficos (Pixel art): Neko Belmont
-
 Gráficos DDS de "Derrota", "Vitória" e etc.: Samuka Beludo
-
 Ferramentas: Comunidade "CV:HD" do Discord
-
 Revisão: Neko Belmont e Barzinho dos Belmonts
+
 
 # Instalação Manual (RPCS3)
 Baixe o "release" mais recente, acesse o local de instalação do RPCS3 e vá até "\dev_hdd0\game\". Substitua a pasta "NPUB30505" com a que baixou.
+
+# Instalação
+Baixe o PKG da sua versão do jogo e instale no emulador ou no console real.
