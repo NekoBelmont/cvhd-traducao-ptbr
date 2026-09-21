@@ -6,12 +6,12 @@ Castlevania - Harmony of Despair é um jogo multijogador de PlayStation 3 desenv
 Esta tradução foi concebida, inicialmente, no início de 2025. Eu tinha recém lançado o projeto de dublagem de Aria of Sorrow em conjunto com o Solid_One e bMatSantos. A ideia da dublagem era a inicial, mas o jogo acabou sofrendo retradução de itens e bestiário para se adequar a um padrão, que, em acordo com o Solid, iríamos aplicar à franquia como um todo. Andando pelo servidor do discord principal de Castlevania - HD, percebi que o assunto de modificações já era bem estabelecido por lá, então me apoiei em ferramentas desenvolvidas pelos membros do servidor para me ajudar com a tradução, em especial, do Stingerman06. A tradução correu com hiatos e explosões de energia inconsistentes, e ainda não está completa: falta alterar a tela de título e adicionar uma futura dublagem no jogo. A versão atual contém 100% dos textos visíveis traduzidos sem nenhum erro aparente.
 
 # Créditos
-Tradução/Adaptação: Neko Belmont e Solid_One
-Terminologia/Universalização: Neko Belmont, Solid_One e Rafael Silva
-Gráficos (Pixel art): Neko Belmont
-Gráficos DDS de "Derrota", "Vitória" e etc.: Samuka Beludo
-Ferramentas: Comunidade "CV:HD" do Discord
-Revisão: Neko Belmont e Barzinho dos Belmonts
+- Tradução/Adaptação: Neko Belmont e Solid_One
+- Terminologia/Universalização: Neko Belmont, Solid_One e Rafael Silva
+- Gráficos (Pixel art): Neko Belmont
+- Gráficos DDS de "Derrota", "Vitória" e etc.: Samuka Beludo
+- Ferramentas: Comunidade "CV:HD" do Discord
+- Revisão: Neko Belmont e Barzinho dos Belmonts
 
 
 # Instalação Manual (RPCS3)
