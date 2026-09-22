@@ -1,5 +1,5 @@
 # [PS3] Castlevania - Harmony of Despair - Tradução PT-BR
-Este é um projeto de tradução do jogo Castlevania Harmony of Despair (PS3) para português do Brasil. O projeto foi feito em cima da versão USA do jogo com todas as DLCs substituindo o idioma inglês.
+Este é um projeto de tradução do jogo Castlevania Harmony of Despair (PS3) para português do Brasil. O projeto foi feito substituindo o idioma inglês.
 Castlevania - Harmony of Despair é um jogo multijogador de PlayStation 3 desenvolvido pela Konami em 2010. Foi o último jogo de Castlevania em que Koji Igarashi trabalhou dentro da empresa e tem conteúdos de vários jogos anteriores.
 
 # Sobre a tradução
@@ -15,7 +15,7 @@ Esta tradução foi concebida, inicialmente, no início de 2025. Eu tinha recém
 
 
 # Instalação Manual (RPCS3)
-Baixe o "release" mais recente, acesse o local de instalação do RPCS3 e vá até "\dev_hdd0\game\". Substitua a pasta "NPUB30505" com a que baixou.
+Baixe o "release" mais recente, acesse o local de instalação do RPCS3 e vá até "\dev_hdd0\game\NPUB30505" ou "\dev_hdd0\game\NPEB00563" (dependendo da sua versão). Substitua a pasta "USRDIR" com a que baixou.
 
-# Instalação
-Baixe o PKG da sua versão do jogo e instale no emulador ou no console real.
+# Instalação no PS3 real
+Baixe o PKG da sua versão do jogo e instale no console real.
