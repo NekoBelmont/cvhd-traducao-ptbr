@@ -15,7 +15,7 @@ Esta tradução foi concebida, inicialmente, no início de 2025. Eu tinha recém
 
 
 # Instalação Manual (RPCS3)
-Baixe o "release" mais recente, acesse o local de instalação do RPCS3 e vá até "\dev_hdd0\game\NPUB30505" ou "\dev_hdd0\game\NPEB00563" (dependendo da sua versão). Substitua a pasta "USRDIR" com a que baixou.
+Aperte no "Code" verde alí em cima > download zip, acesse o local de instalação do RPCS3 e vá até "\dev_hdd0\game\NPUB30505" ou "\dev_hdd0\game\NPEB00563" (dependendo da sua versão). Substitua a pasta "USRDIR" com a que baixou.
 
 # Instalação no PS3 real
 Baixe o PKG da sua versão do jogo e instale no console real.
